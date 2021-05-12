@@ -8,7 +8,7 @@ main.tf - creates a Physical Domain, Vlan Pool and AAEP on Cisco's sandbox APIC 
  
 ### Use Case Description
 
-Creation and testing of Cisco aci Terraform script
+Creation and testing of Cisco ACI Terraform script
 
 ### DevNet Sandbox
 
