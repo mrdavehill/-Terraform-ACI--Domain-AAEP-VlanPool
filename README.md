@@ -37,4 +37,4 @@ Hit me up if you have any issues.
 This project was written and is maintained by the following individuals:
 
 * Dave Hill <dave@davehill.org>
-
+* https://www.linkedin.com/in/dave-hill-a5a3601b0/
