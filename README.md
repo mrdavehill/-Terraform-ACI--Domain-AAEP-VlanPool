@@ -32,7 +32,7 @@ visit DevNet Sandbox and look for tenant AEP_Core, Vlan_Pool_Core and Domain_Cor
 
 Hit me up if you have any issues.
 
-### Author(s)
+### Author
 
 This project was written and is maintained by the following individuals:
 
